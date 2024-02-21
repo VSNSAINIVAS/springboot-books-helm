@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  springboot:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-02-21T10:55:22.755488086+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 166247a73e7bc13fbd3d17246eb1bb4305bfaf69bec09cc814f8c08164ce8137
+    name: springboot
+    type: application
+    urls:
+    - https://vsnsainivas.github.io/springboot-books-helm/springboot-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-02-21T10:55:22.74892071+05:30"
